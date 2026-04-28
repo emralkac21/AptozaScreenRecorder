@@ -1,0 +1,45 @@
+# ============================================================
+# EkranKayıt Pro — Python Bağımlılıkları
+# Kurulum: pip install -r requirements.txt
+# ============================================================
+
+# ── Kullanıcı Arayüzü ───────────────────────────────────────
+customtkinter>=5.2.0          # Modern, tema destekli tkinter bileşenleri
+Pillow>=10.0.0                # Görsel işleme: filigran, overlay, PiP çerçevesi, waveform
+
+# ── Ekran Yakalama ──────────────────────────────────────────
+mss>=9.0.1                    # Çok monitör destekli, yüksek performanslı ekran yakalama
+
+# ── Video İşleme ────────────────────────────────────────────
+opencv-python>=4.8.0          # Webcam akışı, frame işleme, fallback VideoWriter
+numpy>=1.24.0                 # Frame dizisi işlemleri (mss → numpy → ffmpeg pipe)
+
+# ── Ses Kaydı ───────────────────────────────────────────────
+pyaudio>=0.2.14               # Mikrofon ses akışı ve WAV yazımı
+# NOT: Windows'ta kurulum sorunu yaşanırsa:
+#   pip install pipwin && pipwin install pyaudio
+# Linux (Ubuntu/Debian) için önce:
+#   sudo apt install portaudio19-dev
+
+# ── Ses Önizleme ────────────────────────────────────────────
+pygame>=2.5.0                 # Ses efektleri modülünde 45 sn önizleme oynatımı
+
+# ── İmleç Konumu ────────────────────────────────────────────
+pyautogui>=0.9.54             # Kayıt sırasında imleç koordinatı okuma (zoom merkezi)
+
+# ── Global Klavye Kısayolları ────────────────────────────────
+pynput>=1.7.6                 # Uygulama odakta değilken de çalışan global hotkey dinleyici
+
+# ============================================================
+# HARICI BAĞIMLILIK (pip ile kurulmaz)
+# ============================================================
+# FFmpeg >= 4.4
+#   Windows : winget install Gyan.FFmpeg
+#             veya https://ffmpeg.org/download.html
+#   macOS   : brew install ffmpeg
+#   Linux   : sudo apt install ffmpeg
+#
+# FFmpeg olmadan: ekran kaydı OpenCV fallback ile devam eder,
+# ancak ses birleştirme, trim, merge, format dönüştürme,
+# ses efektleri ve görsel-video modülleri ÇALIŞMAZ.
+# ============================================================
