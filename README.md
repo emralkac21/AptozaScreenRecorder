@@ -15,7 +15,9 @@
 ---
 
 ## 📸 Genel Bakış
-
+---
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7787c870-5ee8-4675-81b6-aaa05df0d2cd" />
+---
 **Aptoza Screen Recorder Pro**, Python ile geliştirilmiş kapsamlı bir masaüstü ekran kaydedici uygulamasıdır. Temel kayıt özelliklerinin çok ötesine geçerek; canlı çizim/anotasyon katmanı, webcam PiP (Picture-in-Picture) desteği, tam özellikli ses efektleri stüdyosu ve görselden video dönüştürücü modüllerini tek bir çatı altında sunar.
 
 GitHub'ın koyu renk temasından ilham alan arayüzü ve CollapsibleSection tabanlı duyarlı düzeni ile hem profesyonel hem de gündelik kullanıma uygundur.
@@ -24,6 +26,11 @@ GitHub'ın koyu renk temasından ilham alan arayüzü ve CollapsibleSection taba
 
 ## ✨ Özellikler
 
+---
+
+Uploading genel_özellikler.mp4…
+
+---
 ### 🎥 Ekran Kaydı
 - **Tam Ekran veya Bölge Seçimi** — Mouse sürükleyerek piksel hassasiyetle kayıt alanı belirleyin
 - **Ayarlanabilir FPS** — İhtiyaca göre kare hızı kontrolü
