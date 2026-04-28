@@ -14,6 +14,18 @@
 
 ---
 
+## 📸 Windows Kurulum
+
+---
+
+---
+
+https://github.com/user-attachments/assets/3c15b9af-b437-414a-8b5a-b25421670967
+
+---
+
+---
+
 ## 📸 Genel Bakış
 ---
 
