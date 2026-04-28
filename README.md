@@ -16,8 +16,11 @@
 
 ## 📸 Genel Bakış
 ---
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7787c870-5ee8-4675-81b6-aaa05df0d2cd" />
+
 ---
+
 **Aptoza Screen Recorder Pro**, Python ile geliştirilmiş kapsamlı bir masaüstü ekran kaydedici uygulamasıdır. Temel kayıt özelliklerinin çok ötesine geçerek; canlı çizim/anotasyon katmanı, webcam PiP (Picture-in-Picture) desteği, tam özellikli ses efektleri stüdyosu ve görselden video dönüştürücü modüllerini tek bir çatı altında sunar.
 
 GitHub'ın koyu renk temasından ilham alan arayüzü ve CollapsibleSection tabanlı duyarlı düzeni ile hem profesyonel hem de gündelik kullanıma uygundur.
@@ -28,10 +31,16 @@ GitHub'ın koyu renk temasından ilham alan arayüzü ve CollapsibleSection taba
 
 ---
 
-Uploading genel_özellikler.mp4…
+https://github.com/user-attachments/assets/0d17d1ff-aa74-4c0a-8244-50155869723a
 
 ---
 ### 🎥 Ekran Kaydı
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fc5cd73b-925a-4f12-b17e-f867284d4c02" />
+
+---
 - **Tam Ekran veya Bölge Seçimi** — Mouse sürükleyerek piksel hassasiyetle kayıt alanı belirleyin
 - **Ayarlanabilir FPS** — İhtiyaca göre kare hızı kontrolü
 - **CRF Kalite Kontrolü** — Dosya boyutu / kalite dengesini yönetin
@@ -50,6 +59,12 @@ Uploading genel_özellikler.mp4…
 - **Thread-safe Stream** — `WebcamVideoStream` sınıfı ile bağımsız okuma döngüsü
 
 ### 🖌️ Çizim ve Anotasyon Katmanı
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b54e1b8a-417f-410d-9de2-482c74c0514e" />
+
+---
+
 - **8 Çizim Aracı** — Fare imleci, dikdörtgen, daire, ok, çizgi, serbest çizim, metin, silgi
 - **Kayan Araç Paneli** — Her zaman üstte duran bağımsız araç çubuğu penceresi
 - **Şeffaf Overlay** — Ekranın üzerinde çizim yaparken altta çalışan uygulamaları etkilemez
@@ -58,32 +73,79 @@ Uploading genel_özellikler.mp4…
 - **Çizim Modu Kısayolu** — Hotkey ile çizimi hızlıca etkinleştir/devre dışı bırak
 
 ### 🔍 Zoom (Büyütme)
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5c807859-6040-4b9d-97ba-b84ddd1dd058" />
+
+---
+
 - **1.0×–4.0× Anlık Zoom** — Kayıt sırasında fareyi takip ederek ekrana yakınlaştırma
 - **Gerçek Zamanlı Uygulama** — Kayda anında yansır, performansı düşürmez
 
 ### 🖱️ İmleç Vurgusu
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b1a5e8c9-b2ca-4cac-b026-bd521779d17a" />
+
+---
 - **Özelleştirilebilir İmleç Dairesi** — Renk ve boyutu ayarlanabilir görsel vurgulama efekti
 
 ### 💧 Filigran (Watermark)
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/052f1f48-db04-4660-8416-2732dc205383" />
+
+---
+
 - **Metin Filigranı** — Font boyutu, opaklık ve konum ayarlı metin ekleme
 - **Görsel Filigran** — PNG/JPG logo veya marka görseli bindirme
 - **5 Konum** — `top-left`, `top-right`, `bottom-left`, `bottom-right`, `center`
 - **Opaklık Kontrolü** — 0–100% arası şeffaflık ayarı
 
 ### ⏰ Zamanlanmış Kayıt
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/49298bab-f242-4620-a6f5-8430ac22951f" />
+
+---
+
 - **Başlangıç/Bitiş Saati** — Belirtilen saatle otomatik kayıt başlatma/durdurma
 - **Arka Plan İzleyici** — Uyku modunu engellemez; daemon thread ile çalışır
 
 ### ⌨️ Global Kısayol Tuşları
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7a611387-303c-4d92-946a-d0f65005b5b0" />
+
+---
+
 - **5 Eyleme Atama** — Kayıt başlat, duraklat, durdur, ekran görüntüsü, çizim modu
 - **`pynput` ile Global** — Uygulama odakta olmasa bile çalışır
 - **Canlı Yakalama** — Diyalog kutusuyla anlık tuş ataması
 - **Ayarlara Kaydedilir** — Oturumlar arası kısayollar korunur
 
 ### 📸 Ekran Görüntüsü
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3381aeb3-7bab-4748-95fd-a830052dc0e0" />
+
+---
+
 - **Tek Tuşla Screenshot** — Mevcut ekranı PNG olarak kaydet
 
 ### ✂️ Video Düzenleme Araçları
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2f2130ae-acf6-4af1-9670-dce1df6134d7" />
+
+---
+
 - **Kırpma (Trim)** — Başlangıç/bitiş saniyesi girerek video kesme
 - **Birleştirme (Merge)** — Birden fazla videoyu sırayla tek dosyaya birleştirme
 - **Format Dönüştürme** — MP4, AVI, MKV, MOV, WebM çıktı desteği
@@ -97,6 +159,12 @@ Uploading genel_özellikler.mp4…
 ---
 
 ## 🎛️ Ses Efektleri Stüdyosu (`AudioEffectsModule.py`)
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d82eb9af-a08a-4617-af0d-9107e852fde7" />
+
+---
 
 Bağımsız bir modül olarak dahil edilen ses efektleri stüdyosu, FFmpeg filtre zinciri oluşturarak ses dosyalarını profesyonel düzeyde işlemenizi sağlar.
 
@@ -138,6 +206,12 @@ Bağımsız bir modül olarak dahil edilen ses efektleri stüdyosu, FFmpeg filtr
 
 ## 🖼️ Görsel → Video Dönüştürücü (`ImageToVideoModule.py`)
 
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/beed65de-2d3c-4e43-a0a9-e8cd87422dfd" />
+
+---
+
 Fotoğraflardan slayt gösterisi tarzı videolar oluşturmak için eksiksiz bir editör.
 
 ### Temel Özellikler
@@ -147,6 +221,12 @@ Fotoğraflardan slayt gösterisi tarzı videolar oluşturmak için eksiksiz bir 
 - **FFmpeg Tabanlı Render** — Geçici klipler oluşturulup birleştirilir
 
 ### Per-Görsel Efekt Zinciri
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8a097bb6-2c6d-4c5a-9b59-6ef315ecf4c2" />
+
+---
 
 **Renk Ayarları**
 - Parlaklık, Kontrast, Doygunluk, Gama, Ton (Hue)
