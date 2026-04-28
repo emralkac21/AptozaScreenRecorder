@@ -327,8 +327,8 @@ Uygulama ayarları `~/.ekran_kayit_pro.json` dosyasında otomatik saklanır:
     "start": "F9",
     "pause": "F10",
     "stop": "F11",
-    "screenshot": "F12",
-    "draw": "ctrl+d"
+    "screenshot": "F8",
+    "draw": "F7"
   }
 }
 ```
