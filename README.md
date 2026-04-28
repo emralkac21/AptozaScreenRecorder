@@ -275,7 +275,7 @@ pip install -r requirements.txt
 ### Uygulamayı Başlatın
 
 ```bash
-python AQ26.py
+python main.py
 ```
 
 > **Not:** Windows kullanıcıları için `AQ2.ico` dosyası çalışma dizininde bulunmalıdır (ikon için). Yoksa uygulama çalışmaya devam eder, yalnızca araç paneli ikonu gösterilmez.
@@ -287,7 +287,7 @@ python AQ26.py
 ```
 EkranKayitPro/
 │
-├── AQ26.py                  # Ana uygulama — UI + Kayıt Motoru
+├── main.py                  # Ana uygulama — UI + Kayıt Motoru
 ├── AudioEffectsModule.py    # Ses efektleri stüdyosu modülü
 ├── ImageToVideoModule.py    # Görsel → Video dönüştürücü modülü
 ├── requirements.txt         # Python bağımlılıkları
